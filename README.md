@@ -59,6 +59,8 @@ pip install -r requirements.txt
 
 ## 💻 Kullanım
 
+https://github.com/efegurkann/TechScan/raw/main/video/usage.mp4
+
 ### Temel Kullanım
 
 ```bash

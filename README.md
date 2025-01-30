@@ -59,7 +59,7 @@ pip install -r requirements.txt
 
 ## �� Kullanım
 
-https://github.com/efegurkann/TechScan/video/usage.mp4
+https://github.com/efegurkann/TechScan/assets/video/usage.mp4
 
 <video src="video/usage.mp4" controls title="Kullanım Videosu"></video>
 

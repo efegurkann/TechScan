@@ -57,9 +57,11 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-## 💻 Kullanım
+## �� Kullanım
 
-https://github.com/efegurkann/TechScan/raw/main/video/usage.mp4
+https://github.com/efegurkann/TechScan/video/usage.mp4
+
+<video src="video/usage.mp4" controls title="Kullanım Videosu"></video>
 
 ### Temel Kullanım
 
